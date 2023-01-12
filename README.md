@@ -17,7 +17,6 @@
 <br/> 
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/Oyum2814/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyum2814&layout=compact&theme=tokyonight" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oyum2814&theme=tokyonight" alt="Oyum2814" />
 
 ### Visitor count
