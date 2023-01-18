@@ -4,7 +4,7 @@
 <h3 align="center">A full stack developer</h3>
 <br>
 <h3 align="center">I am an enthusiastic developer having worked in various fields like Game Development, App Development, Web Scraping and many more</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oyum2814&label=Profile%20views&color=0e75b6&style=flat" alt="oyum2814" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
