@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Om Mukherjee</h1>
 <h3 align="center">A full stack developer</h3>
+
 ![Coding Cat](https://github.com/Oyum2814/Oyum2814/blob/main/Coding-Cat.gif?raw=true)
+
 <br>
 <h3 align="center">I am an enthusiastic developer having worked in various fields like Game Development, App Development, Web Scraping and many more</h3>
 
